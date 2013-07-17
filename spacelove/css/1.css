@@ -20,3 +20,7 @@ body, html {
 	height: 100% !important;
 	width: 100% !important;
 }
+
+.galleria-thumbnails .galleria-image {
+    max-height: 80px !important;
+}
